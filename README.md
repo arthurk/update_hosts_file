@@ -7,6 +7,8 @@ block spam, spyware, etc.
 
 A backup of your old hosts file will be created.
 
+**Note:** someonewhocares.org is not TLS. Inspect your /etc/hosts file after an update.
+
 ![screenshot](https://github.com/arthurk/update_hosts_file/blob/master/screenshot.png "screenshot")
 
 Building
